@@ -130,5 +130,38 @@
     "album": "Faded",
     "numero_de_pista": "1/4",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274318_2.flac",
+    "descripcion": "198274318",
+    "imagen": "Albums/198274318.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Faded (Instrumental)",
+    "artista": "Alan Walker",
+    "album": "Faded",
+    "numero_de_pista": "2/4",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274318_3.flac",
+    "descripcion": "198274318",
+    "imagen": "Albums/198274318.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Faded (Restrung)",
+    "artista": "Alan Walker",
+    "album": "Faded",
+    "numero_de_pista": "3/4",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274318_4.flac",
+    "descripcion": "198274318",
+    "imagen": "Albums/198274318.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Faded (Piano Version)",
+    "artista": "Alan Walker",
+    "album": "Faded",
+    "numero_de_pista": "4/4",
+    "Año": "2015"
   }
 ]

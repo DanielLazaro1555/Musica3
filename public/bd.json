@@ -1,0 +1,68 @@
+[
+  {
+    "archivo_musica": "Albums/198274314_1.flac",
+    "descripcion": "198274314",
+    "imagen": "Albums/198274314.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Body Moving",
+    "artista": "Stonebank feat. Whizzkid",
+    "album": "Body Moving",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274315_1.flac",
+    "descripcion": "198274315",
+    "imagen": "Albums/198274315.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Lost Without You",
+    "artista": "Stonebank",
+    "album": "Monument",
+    "numero_de_pista": "1/5",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274315_2.flac",
+    "descripcion": "198274315",
+    "imagen": "Albums/198274315.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Ready",
+    "artista": "Stonebank",
+    "album": "Monument",
+    "numero_de_pista": "2/5",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274315_3.flac",
+    "descripcion": "198274315",
+    "imagen": "Albums/198274315.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Finally",
+    "artista": "Stonebank",
+    "album": "Monument",
+    "numero_de_pista": "3/5",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274315_4.flac",
+    "descripcion": "198274315",
+    "imagen": "Albums/198274315.jpg",
+    "genero": "Dance & DJ/Trip-Hop",
+    "titulo": "Another Day",
+    "artista": "Stonebank",
+    "album": "Monument",
+    "numero_de_pista": "4/5",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274315_5.flac",
+    "descripcion": "198274315",
+    "imagen": "Albums/198274315.jpg",
+    "genero": "Dance & DJ/Trip-Hop",
+    "titulo": "Chokehold",
+    "artista": "Stonebank",
+    "album": "Monument",
+    "numero_de_pista": "5/5",
+    "Año": "2015"
+  }
+]

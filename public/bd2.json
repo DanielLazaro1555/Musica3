@@ -97,5 +97,38 @@
     "album": "Earth - EP",
     "numero_de_pista": "2/4",
     "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274317_3.flac",
+    "descripcion": "198274317",
+    "imagen": "Albums/198274317.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Perfect Views",
+    "artista": "Rogue",
+    "album": "Earth - EP",
+    "numero_de_pista": "3/4",
+    "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274317_4.flac",
+    "descripcion": "198274317",
+    "imagen": "Albums/198274317.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Through The Dark",
+    "artista": "Rogue",
+    "album": "Earth - EP",
+    "numero_de_pista": "4/4",
+    "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274318_1.flac",
+    "descripcion": "198274318",
+    "imagen": "Albums/198274318.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Faded",
+    "artista": "Alan Walker",
+    "album": "Faded",
+    "numero_de_pista": "1/4",
+    "Año": "2015"
   }
 ]

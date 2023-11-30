@@ -163,5 +163,82 @@
     "album": "Faded",
     "numero_de_pista": "4/4",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274319_1.flac",
+    "descripcion": "198274319",
+    "imagen": "Albums/198274319.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Alone",
+    "artista": "Alan Walker",
+    "album": "Alone",
+    "numero_de_pista": "1/3",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274319_2.flac",
+    "descripcion": "198274319",
+    "imagen": "Albums/198274319.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Alone (Instrumental Remix)",
+    "artista": "Alan Walker",
+    "album": "Alone",
+    "numero_de_pista": "2/3",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274319_3.flac",
+    "descripcion": "198274319",
+    "imagen": "Albums/198274319.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Alone (Restrung)",
+    "artista": "Alan Walker",
+    "album": "Alone",
+    "numero_de_pista": "3/3",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274320_1.flac",
+    "descripcion": "198274320",
+    "imagen": "Albums/198274320.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Sing Me to Sleep",
+    "artista": "Alan Walker",
+    "album": "Sing Me to Sleep",
+    "numero_de_pista": "1/3",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274320_2.flac",
+    "descripcion": "198274320",
+    "imagen": "Albums/198274320.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Sing Me to Sleep (Instrumental)",
+    "artista": "Alan Walker",
+    "album": "Sing Me to Sleep",
+    "numero_de_pista": "2/3",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274320_3.flac",
+    "descripcion": "198274320",
+    "imagen": "Albums/198274320.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Sing Me to Sleep (Marshmello Remix)",
+    "artista": "Alan Walker",
+    "album": "Sing Me to Sleep",
+    "numero_de_pista": "3/3",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274321_1.flac",
+    "descripcion": "198274321",
+    "imagen": "Albums/198274321.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Darkside",
+    "artista": "Alan Walker, Au/Ra & Tomine Harket",
+    "album": "Darkside",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
   }
 ]

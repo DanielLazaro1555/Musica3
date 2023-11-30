@@ -264,83 +264,6 @@
     "Año": "2015"
   },
   {
-    "archivo_musica": "Albums/198274323_10.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "What I Said",
-    "artista": "Killercats & Alex Skrindo",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "10/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_11.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Change Your Ways",
-    "artista": "High Maintenance & Charlotte Haining",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "11/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_12.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Fly Away",
-    "artista": "Krys Talk",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "12/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_13.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Happy Accidents",
-    "artista": "Outwild & Inukshuk",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "13/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_14.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Tropic Love",
-    "artista": "Contacreast & The Diviners",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "14/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_15.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Firefly",
-    "artista": "Jim Yosef",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "15/16",
-    "Año": "2015"
-  },
-  {
-    "archivo_musica": "Albums/198274323_16.flac",
-    "descripcion": "198274323",
-    "imagen": "Albums/198274323.jpg",
-    "genero": "Dance & DJ",
-    "titulo": "Hellcat",
-    "artista": "Desmeon",
-    "album": "NCS: The Best of 2015",
-    "numero_de_pista": "16/16",
-    "Año": "2015"
-  },
-  {
     "archivo_musica": "Albums/198274323_2.flac",
     "descripcion": "198274323",
     "imagen": "Albums/198274323.jpg",
@@ -426,6 +349,84 @@
     "artista": "Electrolight & Aloma Steele",
     "album": "NCS: The Best of 2015",
     "numero_de_pista": "9/16",
+    "Año": "2015"
+  },
+  
+  {
+    "archivo_musica": "Albums/198274323_10.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "What I Said",
+    "artista": "Killercats & Alex Skrindo",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "10/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_11.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Change Your Ways",
+    "artista": "High Maintenance & Charlotte Haining",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "11/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_12.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Fly Away",
+    "artista": "Krys Talk",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "12/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_13.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Happy Accidents",
+    "artista": "Outwild & Inukshuk",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "13/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_14.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Tropic Love",
+    "artista": "Contacreast & The Diviners",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "14/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_15.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Firefly",
+    "artista": "Jim Yosef",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "15/16",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274323_16.flac",
+    "descripcion": "198274323",
+    "imagen": "Albums/198274323.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Hellcat",
+    "artista": "Desmeon",
+    "album": "NCS: The Best of 2015",
+    "numero_de_pista": "16/16",
     "Año": "2015"
   },
   {

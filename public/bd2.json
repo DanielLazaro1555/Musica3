@@ -351,7 +351,6 @@
     "numero_de_pista": "9/16",
     "Año": "2015"
   },
-
   {
     "archivo_musica": "Albums/198274323_10.flac",
     "descripcion": "198274323",
@@ -510,7 +509,7 @@
     "archivo_musica": "Albums/198274331_1.flac",
     "descripcion": "198274331",
     "imagen": "Albums/198274331.jpg",
-    "genero": "Dance & DJ/Electronica",
+    "genero": "",
     "titulo": "Loretta (Original Mix)",
     "artista": "Spektrem",
     "album": "Enter the Spektrem",
@@ -521,7 +520,7 @@
     "archivo_musica": "Albums/198274331_2.flac",
     "descripcion": "198274331",
     "imagen": "Albums/198274331.jpg",
-    "genero": "Dance & DJ/Electronica",
+    "genero": "",
     "titulo": "Shine (Original Mix)",
     "artista": "Spektrem",
     "album": "Enter the Spektrem",
@@ -532,9 +531,9 @@
     "archivo_musica": "Albums/198274331_3.flac",
     "descripcion": "198274331",
     "imagen": "Albums/198274331.jpg",
-    "genero": "Dance & DJ/Electronica",
+    "genero": "",
     "titulo": "In a Dream (Album Mix) [feat. Haneen]",
-    "artista": "Spektrem feat. Haneen",
+    "artista": "Spektrem, Haneen",
     "album": "Enter the Spektrem",
     "numero_de_pista": "3/3",
     "Año": "2013"
@@ -604,5 +603,214 @@
     "album": "Clockwork Hearts",
     "numero_de_pista": "4/4",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274335_1.flac",
+    "descripcion": "198274335",
+    "imagen": "Albums/198274335.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Jackpot",
+    "artista": "TheFatRat",
+    "album": "Jackpot",
+    "numero_de_pista": "1/4",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274335_2.flac",
+    "descripcion": "198274335",
+    "imagen": "Albums/198274335.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Epic",
+    "artista": "TheFatRat",
+    "album": "Jackpot",
+    "numero_de_pista": "2/4",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274335_3.flac",
+    "descripcion": "198274335",
+    "imagen": "Albums/198274335.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Prelude",
+    "artista": "TheFatRat",
+    "album": "Jackpot",
+    "numero_de_pista": "3/4",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274335_4.flac",
+    "descripcion": "198274335",
+    "imagen": "Albums/198274335.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Elegy",
+    "artista": "TheFatRat",
+    "album": "Jackpot",
+    "numero_de_pista": "4/4",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274336_1.flac",
+    "descripcion": "198274336",
+    "imagen": "Albums/198274336.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Stronger (feat. Emel)",
+    "artista": "Stonebank",
+    "album": "Stronger (feat. Emel)",
+    "numero_de_pista": "1/1",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274337_1.flac",
+    "descripcion": "198274337",
+    "imagen": "Albums/198274337.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Let You Down",
+    "artista": "Stonebank feat. Danyka Nadeau",
+    "album": "Let You Down",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274338_1.flac",
+    "descripcion": "198274338",
+    "imagen": "Albums/198274338.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Take Me Away",
+    "artista": "Stonebank & Emel",
+    "album": "Take Me Away",
+    "numero_de_pista": "1/1",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274339_1.flac",
+    "descripcion": "198274339",
+    "imagen": "Albums/198274339.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Moving On",
+    "artista": "Stonebank feat. Emel",
+    "album": "Moving On",
+    "numero_de_pista": "1/1",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274340_1.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Welcome",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "1/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_2.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Fly Away",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "2/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_3.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "From the Abyss",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "3/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_4.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Deep Blue (feat. Zoe Moon)",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "4/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_5.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Get Through (feat. Veela)",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "5/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_6.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Life Adjusts (feat. Miyoki)",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "6/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_7.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Stardew",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "7/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_8.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Cold Heart (feat. Florenza) [Explicit]",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "8/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_9.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Taking You Higher",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "9/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_10.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Cyclone",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "10/11",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274340_11.flac",
+    "descripcion": "198274340",
+    "imagen": "Albums/198274340.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Farewell (feat. Progley)",
+    "artista": "Rameses B",
+    "album": "Spacewalk III: Alpha Cen [Explicit]",
+    "numero_de_pista": "11/11",
+    "Año": "2019"
   }
 ]

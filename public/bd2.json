@@ -64,5 +64,38 @@
     "album": "Monument",
     "numero_de_pista": "5/5",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274316_1.flac",
+    "descripcion": "198274316",
+    "imagen": "Albums/198274316.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Make It",
+    "artista": "Janee & Laura Brehm",
+    "album": "Make It",
+    "numero_de_pista": "1/1",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274317_1.flac",
+    "descripcion": "198274317",
+    "imagen": "Albums/198274317.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "From The Dust",
+    "artista": "Rogue",
+    "album": "Earth - EP",
+    "numero_de_pista": "1/4",
+    "Año": "2013"
+  },
+  {
+    "archivo_musica": "Albums/198274317_2.flac",
+    "descripcion": "198274317",
+    "imagen": "Albums/198274317.jpg",
+    "genero": "Dance & DJ/Trip-Hop",
+    "titulo": "Cataclysm",
+    "artista": "Rogue",
+    "album": "Earth - EP",
+    "numero_de_pista": "2/4",
+    "Año": "2013"
   }
 ]

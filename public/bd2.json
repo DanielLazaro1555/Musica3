@@ -351,7 +351,7 @@
     "numero_de_pista": "9/16",
     "Año": "2015"
   },
-  
+
   {
     "archivo_musica": "Albums/198274323_10.flac",
     "descripcion": "198274323",
@@ -560,5 +560,49 @@
     "album": "Don't Look Down",
     "numero_de_pista": "1/1",
     "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274334_1.flac",
+    "descripcion": "198274334",
+    "imagen": "Albums/198274334.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Skyward",
+    "artista": "Feint",
+    "album": "Clockwork Hearts",
+    "numero_de_pista": "1/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274334_2.flac",
+    "descripcion": "198274334",
+    "imagen": "Albums/198274334.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Clockwork Hearts",
+    "artista": "Feint",
+    "album": "Clockwork Hearts",
+    "numero_de_pista": "2/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274334_3.flac",
+    "descripcion": "198274334",
+    "imagen": "Albums/198274334.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "The Journey",
+    "artista": "Feint feat. Veela",
+    "album": "Clockwork Hearts",
+    "numero_de_pista": "3/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274334_4.flac",
+    "descripcion": "198274334",
+    "imagen": "Albums/198274334.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Clockwork Hearts ((Hyvemind Remix))",
+    "artista": "Feint & Hivemynd",
+    "album": "Clockwork Hearts",
+    "numero_de_pista": "4/4",
+    "Año": "2012"
   }
 ]
